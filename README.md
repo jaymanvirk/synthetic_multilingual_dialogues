@@ -1,4 +1,4 @@
-# Synthetic multilingual text data to fine-tune LLM
+# Parallel Corpora Synthesis and Analysis with Large Language Models
 
 ## Abstract
-This paper presents a project focused on the synthesis and analysis of multilingual text data using Large Language Models (LLMs). The goal is to enhance the capabilities of LLMs in handling cross-language scenarios for more effective communication.
+This paper outlines a project centered on synthesizing and analyzing parallel corpora with the aid of Large Language Models (LLMs). The study employs an open-source LLMs to generate a multilingual text collection, followed by fine-tuning on the generated data. The objective is to assess whether synthetic data can offer comparable value to real-world data when training LLMs.
