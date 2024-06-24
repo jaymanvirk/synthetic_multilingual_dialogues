@@ -8,5 +8,5 @@ The findings reveal that while T5-base Opus-books initially performed better, it
 ## Dataset
 [Synthetic Parallel Corpora](https://huggingface.co/datasets/jaymanvirk/synthetic_parallel_corpora)
 
-## Article
+## Paper
 [Parallel Corpora Synthesis and Analysis with Large Language Models](parallel_corpora_synthesis_analysis_llm.pdf)
