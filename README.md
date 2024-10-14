@@ -10,3 +10,6 @@ The findings reveal that while T5-base Opus-books initially performed better, it
 
 ## Paper
 [Parallel Corpora Synthesis and Analysis with Large Language Models](parallel_corpora_synthesis_analysis_llm.pdf)
+
+## License
+This project is licensed under the MIT License.
